@@ -20,9 +20,11 @@ L'objectif de ces fiches est de guider pas à pas les participantes et participa
 ```text
 .
 ├── pdf/                 # Versions prêtes à imprimer et à plastifier
-│   ├── vpl3_fiches.pdf
-│   └── aseba_fiches.pdf
-├── affinity-sources/    # Fichiers sources éditables (Affinity Designer / Photo)
-│   ├── vpl3_fiches.afdesign
-│   └── aseba_fiches.afdesign
+│   ├── CartesAseba.pdf 
+│   ├── CartesVPL_Aseba.pdf
+|   └── CartesVPL.pdf
+├── affinity-sources/    # Fichiers sources éditables (Affinity Designer / Photo) - Application gratuite !
+│   ├── CartesAseba.af 
+│   ├── CartesVPL_Aseba.af
+|   └── CartesVPL.af
 └── README.md
